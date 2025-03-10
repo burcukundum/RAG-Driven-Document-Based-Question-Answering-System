@@ -1,7 +1,6 @@
-
 # RAG-Driven Document-Based Question Answering System
 
-This project implements an AI-powered system capable of answering user queries based on the contents of uploaded PDF documents. The system utilizes various components such as document loading, chunking, cleaning, and a question-answering agent to provide accurate answers using context from the documents.
+This project implements an AI-powered system capable of answering user queries based on the contents of uploaded PDF documents. The system utilizes various components such as document loading, chunking, cleaning, and a question-answering agent to provide accurate answers using context from the documents. It leverages LangChain for conversational agent configuration and Streamlit for the user interface.
 
 ## Project Structure
 
